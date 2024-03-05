@@ -1,8 +1,9 @@
 import Footer from "../layouts/Footer";
 import Navbar from "../layouts/Navbar";
 import Sidebar from "../layouts/Sidebar";
+import Detail from "../layouts/Detail";
 
-const DetailTransaksi = () => {
+const KatagoriPage = () => {
   return (
     <>
       <Navbar />
@@ -15,4 +16,4 @@ const DetailTransaksi = () => {
   );
 };
 
-export default DetailTransaksi;
+export default KatagoriPage;
