@@ -7,6 +7,7 @@ import RecipeIngridients from "../components/RecipeIngridients";
 import CookingMethod from "../components/CookingMethode";
 import IngridientsButtonOrder from "../components/IngridientsButtonOrder";
 import RatingFood from "../components/RatingFood";
+import FeatureRating from "../components/FeatureRating";
 
 
 const Recipepage = () => {
